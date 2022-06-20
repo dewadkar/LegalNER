@@ -1,5 +1,5 @@
 # --------------------------------------------
-# Logixal DES - AI Powered Enterprise Search
+# LDD- AI Powered Enterprise Search
 # __author__ : Dnyaneshwar Dewadkar
 #            : 7:21 PM 21/12/20
 #            : test_spacy.py
